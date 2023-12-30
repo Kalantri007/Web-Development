@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    border: 5px solid wheat;
+    margin: 20px 25% 20px 25%;
+
+    
+
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: antiquewhite;
+    text-align: center;
+}
+
+p{
+    color: antiquewhite;
+    text-align: center;
+
+}
